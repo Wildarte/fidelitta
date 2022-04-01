@@ -355,3 +355,83 @@ nav.menu ul li a{
     position: relative;
 }
 /* wait */
+
+
+/* section unidades */
+.sec_unit{
+    background-image: url('../img/unidades.jpg');
+}
+.unit_content{
+    padding: 80px 10px;
+}
+.card_unity{
+    margin: 30px auto;
+    width: 80%;
+    border: 1px solid #ddd;
+    background-color: var(--color-white);
+}
+.card_content{
+    display: flex;
+    height: 400px;
+}
+.card_left, .card_right{
+    flex-basis: 50%;
+}
+.card_left{
+    padding: 10px;
+}
+.card_right img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.header_card_unidade{
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.header_card_unidade::before{
+    content: "";
+    height: 100%;
+    width: 4px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-main);
+}
+.header_card_unidade h4{
+    font-size: 1.8em;
+    font-weight: 500;
+    color: var(--color-main);
+    margin-left: 20px;
+}
+.card_mapa{
+    height: 140px;
+    overflow: hidden;
+}
+.unidade_detalhes li{
+    font-size: .97em;
+    line-height: 1.8em;
+}
+.card_unidade_contato{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 40px;
+}
+.card_unidade_contato a{
+    color: var(--color-white);
+    padding: 8px 20px;
+    background-color: var(--color-main);
+    border-radius: 3px;
+    margin-right: 10px;
+}
+.card_mapa img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+}
+/* section unidades */

@@ -198,77 +198,78 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
         </section>
 
 
+        <section class="sec_unit container_full">
 
-        <section>
-
-            <div>
+            <div class="unit_content container">
                 
                 <div class="card_unity">
-                    <div class="card_unity_left">
-                        <div>
-                            <div>
-                                <header>
+                    <div class="card_unity_content_full">
+                        <div class="card_content">
+                            <div class="card_left">
+                                <header class="header_card_unidade">
                                     <h4>Unidade 1</h4>
                                 </header>
 
-                                <ul>
-                                    <li>Rua Tobias da Silva, 22 conj. 402 | Moinhos de Vento</li>
-                                    <li>De seg. às sextas feiras, das 8:30h às 12:00h e das 13:30h às 19:00h;</li>
-                                    <li>Um sábado por mês, atendemos entrevistas mediante agendamento prévio;</li>
-                                    <li>Aceitamos todos os cartões de crédito;</li>
+                                <ul class="unidade_detalhes">
+                                    <li><i class="bi bi-geo-alt-fill"></i> Rua Tobias da Silva, 22 conj. 402 | Moinhos de Vento</li>
+                                    <li><i class="bi bi-clock-history"></i> De seg. às sextas feiras, das 8:30h às 12:00h e das 13:30h às 19:00h;</li>
+                                    <li><i class="bi bi-chat-dots-fill"></i> Um sábado por mês, atendemos entrevistas mediante agendamento prévio;</li>
+                                    <li><i class="bi bi-credit-card-2-back"></i> Aceitamos todos os cartões de crédito;</li>
                                 </ul>
 
-                                <div>
+                                <div class="card_unidade_contato">
                                     <a href="#">(99) 9 9999-9999</a>
 
                                     <a href="#">(99) 9999-9999</a>
                                 </div>
                             </div>
                             <div class="card_right">
-
+                                <img src="assets/img/unidade1.jpg" alt="">
                             </div>
                         </div>
 
-                        <div>
-                            mapa
+                        <div class="card_mapa">
+                            <img src="assets/img/mapa.jpg" alt="">
                         </div>
                         
                     </div>
                 </div>
-
 
                 <div class="card_unity">
-                    <div class="card_unity_left">
-                        <div>
-                            <div>
-                                <header>
-                                    <h4>Unidade 1</h4>
+                    <div class="card_unity_content_full">
+                        <div class="card_content">
+                            <div class="card_left">
+                                <header class="header_card_unidade">
+                                    <h4>Unidade 2</h4>
                                 </header>
 
-                                <ul>
-                                    <li>Rua Tobias da Silva, 22 conj. 402 | Moinhos de Vento</li>
-                                    <li>De seg. às sextas feiras, das 8:30h às 12:00h e das 13:30h às 19:00h;</li>
-                                    <li>Um sábado por mês, atendemos entrevistas mediante agendamento prévio;</li>
-                                    <li>Aceitamos todos os cartões de crédito;</li>
+                                <ul class="unidade_detalhes">
+                                    <li><i class="bi bi-geo-alt-fill"></i> Rua Tobias da Silva, 22 conj. 402 | Moinhos de Vento</li>
+                                    <li><i class="bi bi-clock-history"></i> De seg. às sextas feiras, das 8:30h às 12:00h e das 13:30h às 19:00h;</li>
+                                    <li><i class="bi bi-chat-dots-fill"></i> Um sábado por mês, atendemos entrevistas mediante agendamento prévio;</li>
+                                    <li><i class="bi bi-credit-card-2-back"></i> Aceitamos todos os cartões de crédito;</li>
                                 </ul>
 
-                                <div>
+                                <div class="card_unidade_contato">
                                     <a href="#">(99) 9 9999-9999</a>
 
                                     <a href="#">(99) 9999-9999</a>
                                 </div>
                             </div>
                             <div class="card_right">
-
+                                <img src="assets/img/unidade2.jpg" alt="">
                             </div>
                         </div>
 
-                        <div>
-                            mapa
+                        <div class="card_mapa">
+                            <img src="assets/img/mapa.jpg" alt="">
                         </div>
                         
                     </div>
                 </div>
+
+
+                
 
             </div>
 
