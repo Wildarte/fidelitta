@@ -175,7 +175,7 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
                     <div class="wait_left_img animate__animated" style="opacity: 0;">
 
                         <img src="assets/img/casal2.jpg" alt="">
-                        <i class="bi bi-suit-heart-fill"></i>
+                       
                     </div>
                 </div>
                 <div class="wait_right">
@@ -201,7 +201,9 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
         <section class="sec_unit container_full">
 
             <div class="unit_content container">
-                
+                <header class="header_unit">
+                    <img src="assets/img/ballom-text-white.png" alt="">
+                </header>
                 <div class="card_unity">
                     <div class="card_unity_content_full">
                         <div class="card_content">
@@ -276,18 +278,28 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
         </section>
 
 
-        <section class="sec_contato">
+        <section class="sec_contato container_full">
 
-            <div class="contato_content">
+            <div class="contato_content container">
+
+                <header class="form_header">
+                    <h3>Contato</h3>
+                    <p>Envie um e-mail que logo retornaremos!</p>
+                </header>
 
                 <div class="form_contato">
 
-                    <div class="img_form">
+                    <div class="img_form" style="background-image: url('assets/img/contato.jpg');">
 
                     </div>
 
                     <form action="">
-
+                        <p>Entre em contato</p>
+                        <input type="text" name="nome" id="nome" placeholder="Seu Nome">
+                        <input type="email" name="email" id="email" placeholder="Seu e-mail">
+                        <input type="text" name="telefone" id="telefone" placeholder="seu telefone">
+                        <textarea name="mensagem" id="mensagem" cols="30" rows="10" placeholder="nos conte mais..."></textarea>
+                        <button class="btn_form">Enviar</button>
                     </form>
 
                 </div>
@@ -299,22 +311,30 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
     </main>
 
 
-    <footer class="footer">
+    <footer class="footer container_full">
 
-        <div class="footer_content">
+        <div class="footer_content container">
 
-            <div>
-                <img src="" alt="">
+            <div class="logo_footer">
+                <img src="assets/img/logo.png" alt="">
             </div>
 
-            <div>
-                <header>
+            <div class="footer_unit">
+                <header class="footer_header_unit">
                     <h4>Unidades</h4>
                 </header>
 
-                <ul>
+                <ul class="footer_info_unit">
                     <li>
                         <h5> <strong>Unidade 1:</strong> Porto Alegre</h5>
+                        <p>Rua Tobias da Silva, 22 - Conj 402 | Moinhos de Vento | Porto Alegre-RS </p>
+                        <p> <a href="tel:+5599999999999">(99) 9 9999-9999</a> </p>
+                        <p> <a href="tel:+5599999999999">(99) 9 9999-9999</a> </p>
+                        <p> <a href="mailto:contato@email.com">contato@email.com</a> </p>
+                    </li>
+
+                    <li>
+                        <h5> <strong>Unidade 2:</strong> Porto Alegre</h5>
                         <p>Rua Tobias da Silva, 22 - Conj 402 | Moinhos de Vento | Porto Alegre-RS </p>
                         <p> <a href="tel:+5599999999999">(99) 9 9999-9999</a> </p>
                         <p> <a href="tel:+5599999999999">(99) 9 9999-9999</a> </p>
@@ -323,25 +343,26 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
                 </ul>
             </div>
 
-            <div>
+            <div class="footer_social">
 
-                <header>
+                <header class="footer_header_social">
                     <h4>redes Sociais</h4>
                 </header>
 
-                <ul>
-                    <li>
-                        <a href="http://"></a>
-                    </li>
+                <ul class="footer_list_social">
+                    <li><a href="#"><i class="bi bi-facebook"></i></a></li>
+                    <li><a href="#"><i class="bi bi-instagram"></i></a></li>    
+                    <li><a href="#"><i class="bi bi-youtube"></i></a></li>
                 </ul>
             </div>
 
         </div>
-        <div>
+        <div class="right_footer">
             <p>Nós <span>&#10084;</span> Formar Casais!</p>
-            <p>FIDELITTÁ ASSESSORIA AFETIVA ® - AGÊNCIA DE RELACIONAMENTOS DE PORTO ALEGRE - RS | <?= date("Y") ?></p>
+            <p><small>FIDELITTÁ ASSESSORIA AFETIVA ® - AGÊNCIA DE RELACIONAMENTOS DE PORTO ALEGRE - RS | <?= date("Y") ?></small></p>
         </div>
     </footer>
+
 
     <script src="assets/js/jquery-3.6.0.min.js"></script>
     <script src="assets/js/owl.carousel.min.js"></script>
