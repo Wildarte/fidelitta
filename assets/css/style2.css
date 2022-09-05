@@ -11,6 +11,9 @@
     --color-rosa-az: #9e5979;
     --color-lighter-pink: #fae6ff;
     --color-pink: #FFADDE;
+    --color-gray: #999999;
+    --color-gray-2: #bbbbbb;
+    --color-red: #842828;
 }
 
 .container{
@@ -25,7 +28,13 @@ header.header{
     background-color: var(--color-suvinill);
     min-height: 500px;
     /*background-image: linear-gradient(to left, var(--color-rosa-az), var(--color-suvinill), var(--color-suvinill));*/
-    background-color: var(--color-pink);
+    background-color: var(--color-gray);
+    background-image: url(../img/bg-hero4.jpg);
+    background-size: cover;
+    background-position: right;
+}
+.over_header{
+    background-color: rgba(10, 10, 10, .7);
 }
 .header_bottom_content{
     display: flex;
@@ -189,8 +198,8 @@ nav.menu ul li a{
 
 /* atendimento */
 .sec_atend{
-    background-color: var(--color-lighter-pink);
-    color: var(--color-main);
+    background-color: var(--color-red);
+    color: var(--color-white);
 }
 .atend_content{
     padding: 100px 10px;
@@ -225,7 +234,7 @@ nav.menu ul li a{
     margin: 10px;
     padding: 10px;
     border-style: solid;
-    border-color: var(--color-second);
+    border-color: var(--color-white);
     border-width: 8px 2px 2px 8px;
     border-radius: 20px;
     transition: all .23s;
@@ -358,8 +367,7 @@ nav.menu ul li a{
 
 /* section unidades */
 .sec_unit{
-    background-image: linear-gradient(to bottom, var(--color-pink), var(--color-lighter-pink));
-    background-image: url('../img/unidades2.png');
+    background-color: var(--color-gray);
     background-size: cover;
 }
 .unit_content{
@@ -442,6 +450,27 @@ nav.menu ul li a{
     object-fit: cover;
     cursor: pointer;
 }
+
+.unidade_list_social {
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px 0;
+}
+.unidade_list_social li {
+    display: flex;
+    padding: 2px;
+    border: 1px solid var(--color-main);
+    background-color: var(--color-main);
+    margin: 5px;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
+.unidade_list_social li a {
+    font-size: 1.1em;
+    margin: auto;
+    color: var(--color-white);
+}
 /* section unidades */
 
 
@@ -521,6 +550,7 @@ nav.menu ul li a{
     border: 1px solid var(--color-white);
     color: var(--color-white);
     font-size: 1.2em;
+    max-width: 100%;
 }
 .form_contato form input:focus, .form_contato textarea:focus{
     outline: 1px solid var(--color-white);

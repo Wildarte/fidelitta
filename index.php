@@ -38,41 +38,45 @@
 
         </div>
          -->
-        <div class="header_bottom">
-            <div class="header_bottom_content container">
-                <div class="header_logo">
-                    <a href="#">
-                        <img src="assets/img/logo.png" alt="">
-                    </a>
-                </div>
-                <nav class="menu">
-                    <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Sobre</a></li>
-                        <li><a href="#">Atendimento</a></li>
-                        <li><a href="#">O que está esperando?</a></li>
-                        <li><a href="#">Unidades</a></li>
-                        <li><a href="#">Contato</a></li>
-                        <li><a href="#">Fidelitta TV</a></li>
-                    </ul>
-                </nav>
+         <div class="over_header">
+            <div class="header_bottom">
+                <div class="header_bottom_content container">
+                    <div class="header_logo">
+                        <a href="#">
+                            <img src="assets/img/logo.png" alt="">
+                        </a>
+                    </div>
+                    <nav class="menu">
+                        <ul>
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">Sobre</a></li>
+                            <li><a href="#">Atendimento</a></li>
+                            <li><a href="#">O que está esperando?</a></li>
+                            <li><a href="#">Unidades</a></li>
+                            <li><a href="#">Contato</a></li>
+                            <li><a href="#">Fidelitta TV</a></li>
+                        </ul>
+                    </nav>
 
-                <div class="header_cta">
-                    <a href="#"><i class="bi bi-geo-alt-fill"></i> Unidades</a>
+                    <div class="header_cta">
+                        <a href="#"><i class="bi bi-geo-alt-fill"></i> Unidades</a>
+                    </div>
+                </div>
+                    
+            </div>
+
+            <div class="video_container">
+                <div class="around_video">
+                    <div class="board_video">
+                        <iframe src="https://www.youtube.com/embed/cdDx8l8lEu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
                 </div>
             </div>
-                
-        </div>
 
-        <div class="video_container">
-            <div class="around_video">
-                <div class="board_video">
-                    <iframe src="https://www.youtube.com/embed/cdDx8l8lEu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-            </div>
-            
-            
         </div>
+       
+
+        
 
     </header>
     
@@ -133,7 +137,7 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
                     <article class="card_atend">
                         <div class="card_atend_content">
                             <header class="header_card">
-                                <img src="assets/img/atendimento.png" alt="atendimento">
+                                <img src="assets/img/interview.png" alt="atendimento">
                                 <h4>Entrevista</h4>
                             </header>
                             <div class="card_atend_text">
@@ -145,7 +149,7 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
 
                     <article class="card_atend">
                         <header class="header_card">
-                            <img src="assets/img/entrevista.png" alt="cadastro">
+                            <img src="assets/img/atendimento2.png" alt="cadastro">
                             <h4>Cadastro</h4>
                         </header>
                         <div class="card_atend_text">
@@ -224,6 +228,11 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
 
                                     <a href="#">(99) 9999-9999</a>
                                 </div>
+                                <ul class="unidade_list_social">
+                                    <li><a href="#"><i class="bi bi-facebook"></i></a></li>
+                                    <li><a href="#"><i class="bi bi-instagram"></i></a></li>    
+                                    <li><a href="#"><i class="bi bi-youtube"></i></a></li>
+                                </ul>
                             </div>
                             <div class="card_right">
                                 <img src="assets/img/unidade1.jpg" alt="">
@@ -257,6 +266,11 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
 
                                     <a href="#">(99) 9999-9999</a>
                                 </div>
+                                <ul class="unidade_list_social">
+                                    <li><a href="#"><i class="bi bi-facebook"></i></a></li>
+                                    <li><a href="#"><i class="bi bi-instagram"></i></a></li>    
+                                    <li><a href="#"><i class="bi bi-youtube"></i></a></li>
+                                </ul>
                             </div>
                             <div class="card_right">
                                 <img src="assets/img/unidade2.jpg" alt="">
