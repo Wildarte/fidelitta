@@ -46,20 +46,30 @@
                             <img src="assets/img/logo.png" alt="">
                         </a>
                     </div>
-                    <nav class="menu">
-                        <ul>
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">Sobre</a></li>
-                            <li><a href="#">Atendimento</a></li>
-                            <li><a href="#">O que está esperando?</a></li>
-                            <li><a href="#">Unidades</a></li>
-                            <li><a href="#">Contato</a></li>
-                            <li><a href="#">Fidelitta TV</a></li>
-                        </ul>
-                    </nav>
+                    <div class="menu_resp">
+                        <div class="top_mobile">
+                            <span class="btn_close_menu">
+                                <i class="bi bi-x-lg"></i>
+                            </span>
+                        </div>
+                        <nav class="menu">
+                            <ul>
+                                <li><a href="#">Home</a></li>
+                                <li><a href="#sobre">Sobre</a></li>
+                                <li><a href="#atendimento">Atendimento</a></li>
+                                <li><a href="#oque">O que está esperando?</a></li>
+                                <li><a href="#unidades">Unidades</a></li>
+                                <li><a href="#contato">Contato</a></li>
+                                <li><a href="#">Fidelitta TV</a></li>
+                            </ul>
+                        </nav>
 
-                    <div class="header_cta">
-                        <a href="#"><i class="bi bi-geo-alt-fill"></i> Unidades</a>
+                        <div class="header_cta">
+                            <a href="#unidades"><i class="bi bi-geo-alt-fill"></i> Unidades</a>
+                        </div>
+                    </div>
+                    <div class="btn_menu">
+                    <i class="bi bi-list"></i>
                     </div>
                 </div>
                     
@@ -94,7 +104,7 @@
              -->
         </section>
 
-        <section class="sec_sobre container_full">
+        <section class="sec_sobre container_full" id="sobre">
             <div class="sobre_content container">
 
                 <div class="sobre_left">
@@ -124,7 +134,7 @@
             
         </section>
 
-        <section class="sec_atend container_full">
+        <section class="sec_atend container_full" id="atendimento">
 
             <div class="atend_content container">
                 <header class="header_atend">
@@ -172,7 +182,7 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
         </section>
 
 
-        <section class="sec_wait">
+        <section class="sec_wait" id="oque">
 
             <div class="wait_content container">
                 <div class="wait_left">
@@ -202,7 +212,7 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
         </section>
 
 
-        <section class="sec_unit container_full">
+        <section class="sec_unit container_full" id="unidades">
 
             <div class="unit_content container">
                 <header class="header_unit">
@@ -292,7 +302,7 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
         </section>
 
 
-        <section class="sec_contato container_full">
+        <section class="sec_contato container_full" id="contato">
 
             <div class="contato_content container">
 
