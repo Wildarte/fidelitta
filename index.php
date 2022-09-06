@@ -110,7 +110,7 @@
                 <div class="sobre_left">
                     <div class="sobre_left_img animate__animated" style="opacity: 0;">
 
-                        <img src="assets/img/casal.jpg" alt="">
+                        <img src="assets/img/love.webp" alt="">
 
                     </div>
                 </div>
@@ -120,9 +120,13 @@
                             <h2>Sobre a Fidelittá</h2>
                         </header>
                         <div class="sobre_description animate__animated" style="opacity: 0;">
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis perspiciatis aspernatur rem ducimus illo a consectetur sapiente veniam, tenetur ipsa fugit ut tempore quasi maxime excepturi quas laudantium optio voluptate quaerat ex sint minus! Quos, provident culpa quod laboriosam vitae praesentium enim accusamus. Dolore rerum ad animi perspiciatis, laboriosam temporibus facere porro iste! Quo cumque tempora, consequuntur sit eligendi esse.</p>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, ut dignissimos magnam debitis expedita necessitatibus illum adipisci tempora asperiores velit minus voluptate alias itaque atque? Obcaecati reiciendis quibusdam quasi ab!</p>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit rem odio molestias molestiae iusto aspernatur tempora mollitia quibusdam soluta nobis, voluptas porro repellendus debitis unde error corporis pariatur numquam doloremque dolore, vero perspiciatis tenetur a non? Ratione labore dolor odio.</p>
+                            <p>Atuamos como uma Assessoria Afetiva há mais de 20 anos. Trabalhando com compatibilidade de perfis e ajudando pessoas livres e independentes a encontrar o/a parceiro(a) ideal para um relacionamento sério e duradouro.</p>
+
+                            <p>A Fidelittá inspirou-se nas assessorias europeias e tem como um dos pilares a qualidade e segurança em cada processo, indo além das propostas das agências de relacionamento.</p>
+
+                            <p>Conheça o atalho inteligente que mudará a sua vida! Você se surpreenderá, você se sentirá seguro! Com a Fidelittá, você encontra a pessoa certa a partir de conexões de personalidade, perfil cultural, econômico e faixa etária.</p>
+
+                            <p>Nossos processos são planejados para garantir uma experiência segura e totalmente exclusiva para você. Permita-se ao amor, você se surpreenderá!</p>
                         </div>
                         
                     </div>
@@ -151,7 +155,7 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
                                 <h4>Entrevista</h4>
                             </header>
                             <div class="card_atend_text">
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam tempore fugit veritatis laboriosam perspiciatis, itaque nihil ut suscipit vero quos nemo debitis laudantium vitae nulla, non reiciendis. Recusandae, ab quo.</p>
+                                <p>Nossas entrevistas são sempre individuais, com hora marcada, sem nenhum custo ou compromisso para que possamos expor a forma como aproximamos os casais, explicar o método que utilizamos e relatar as uniões que aconteceram através dá Fidelittá.</p>
                             </div>
                         </div>
                         
@@ -163,7 +167,8 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
                             <h4>Cadastro</h4>
                         </header>
                         <div class="card_atend_text">
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam tempore fugit veritatis laboriosam perspiciatis, itaque nihil ut suscipit vero quos nemo debitis laudantium vitae nulla, non reiciendis. Recusandae, ab quo.</p>
+                            <p>Possuímos um amplo cadastro com ótimo perfil sócio/cultural. Pessoas de todas as faixas etárias que também buscam um relacionamento sério e duradouro. Em uma das etapas do cadastramento, nossos clientes respondem um questionário onde visamos mapear e obter informações culturais, econômicas, hábitos e preferências pessoais.</p>
+                            <p>Para a segurança de todos os cadastrados, a Fidelittá realiza pesquisa de antecedentes criminais e sugere um levantamento do perfil psicológico quando necessário.</p>
                         </div>
                     </article>
 
@@ -173,7 +178,8 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
                             <h4>Segurança</h4>
                         </header>
                         <div class="card_atend_text">
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam tempore fugit veritatis laboriosam perspiciatis, itaque nihil ut suscipit vero quos nemo debitis laudantium vitae nulla, non reiciendis. Recusandae, ab quo.</p>
+                            <p>Realizamos uma ampla pesquisa sobre a vida de um candidato, sem invadir a sua privacidade, exigindo documento de identidade e prova residencial para obter a certidão de antecedentes criminais.</p>
+                            <p>A Fidelittá visa a proteção recíproca de seus clientes. Nosso foco é a segurança, ajudando nossos clientes a evitar conhecer pessoas oportunistas, perigosas e com desvios de conduta. Todos os dados confidenciais são mantidos no mais absoluto sigilo, e a manipulação dos mesmos é feita de forma codificada.</p>
                         </div>
                     </article>
                 </section>
@@ -188,7 +194,7 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
                 <div class="wait_left">
                     <div class="wait_left_img animate__animated" style="opacity: 0;">
 
-                        <img src="assets/img/casal2.jpg" alt="">
+                        <img src="assets/img/hands.webp" alt="">
                        
                     </div>
                 </div>
@@ -200,9 +206,18 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
 
                         <div class="wait_text animate__animated" style="opacity: 0;">
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, distinctio. Velit exercitationem accusamus similique. Esse adipisci natus veritatis consequatur necessitatibus, suscipit magni error, cumque eos, aspernatur ut dolor? Deserunt necessitatibus libero dolore excepturi a quasi culpa eveniet, corporis blanditiis cupiditate.
+                            Você já parou para pensar, que em algum lugar existe a pessoa perfeita para você? Com os mesmos gostos, hábitos, pensamentos e estilo de vida? Aqui na Fidelittá, trabalhamos com compatibilidade de perfis, para assegurar que você conheça e se apaixone pela pessoa certa. 
                             </p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto iusto itaque accusamus doloribus voluptates praesentium fugiat repellat accusantium mollitia dignissimos. Quasi ut enim saepe unde minus sint adipisci ratione voluptas, expedita quae iusto commodi molestias! Molestiae quas tempora in incidunt?</p>
+                            <p>Amor, cumplicidade, segurança e privacidade são pilares não só de relacionamentos, mas também do nosso trabalho.</p>
+                            <p>
+                            Cansado das propostas e amores vazios dos aplicativos? Pare de procurar o amor no lugar errado! 
+                            </p>
+                            <p>
+                            Se você quer um relacionamento sério, a Fidelittá é uma tradicional empresa gaúcha, que há mais de 20 anos aproxima homens e mulheres que buscam um relacionamento duradouro, com cumplicidade e não somente aventuras passageiras.
+                            </p>
+                            <p>
+                            Permita-se conhecer a Fidelittá, um atalho inteligente!
+                            </p>
                         </div>
                     </div>
                     
@@ -223,7 +238,7 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
                         <div class="card_content">
                             <div class="card_left">
                                 <header class="header_card_unidade">
-                                    <h4>Unidade 1</h4>
+                                    <h4>Unidade 1 - Porto Alegre</h4>
                                 </header>
 
                                 <ul class="unidade_detalhes">
@@ -234,14 +249,14 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
                                 </ul>
 
                                 <div class="card_unidade_contato">
-                                    <a href="#">(99) 9 9999-9999</a>
+                                    <a href="tel:+555130134848"><i class="bi bi-telephone"></i> (51) 3013-4848</a>
 
-                                    <a href="#">(99) 9999-9999</a>
+                                    <a href="https://api.whatsapp.com/send?phone=5551984336084"><i class="bi bi-whatsapp"></i> (51) 98433-6084</a>
                                 </div>
                                 <ul class="unidade_list_social">
-                                    <li><a href="#"><i class="bi bi-facebook"></i></a></li>
-                                    <li><a href="#"><i class="bi bi-instagram"></i></a></li>    
-                                    <li><a href="#"><i class="bi bi-youtube"></i></a></li>
+                                    <li><a href="https://www.facebook.com/fidelittaassessoriaafetiva"><i class="bi bi-facebook"></i></a></li>
+                                    <li><a href="https://www.instagram.com/fidelitta/"><i class="bi bi-instagram"></i></a></li>    
+                                    <li><a href="https://www.youtube.com/channel/UCj7w9NbRfGwvh4dQn3nOqcQ"><i class="bi bi-youtube"></i></a></li>
                                 </ul>
                             </div>
                             <div class="card_right">
@@ -250,7 +265,7 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
                         </div>
 
                         <div class="card_mapa">
-                            <img src="assets/img/mapa.jpg" alt="">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d27635.96159969515!2d-51.201695!3d-30.022648000000004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951979b792cd87f3%3A0x7e29f6c5cebbd0e8!2sR.%20Tobias%20da%20Silva%2C%2022%20-%20Moinhos%20de%20Vento%2C%20Porto%20Alegre%20-%20RS%2C%2090570-020!5e0!3m2!1sen!2sbr!4v1662495260333!5m2!1sen!2sbr" width="" height="" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                         
                     </div>
@@ -261,25 +276,25 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
                         <div class="card_content">
                             <div class="card_left">
                                 <header class="header_card_unidade">
-                                    <h4>Unidade 2</h4>
+                                    <h4>Unidade 2 - Caxias do Sul</h4>
                                 </header>
 
                                 <ul class="unidade_detalhes">
-                                    <li><i class="bi bi-geo-alt-fill"></i> Rua Tobias da Silva, 22 conj. 402 | Moinhos de Vento</li>
+                                    <li><i class="bi bi-geo-alt-fill"></i> Rua Pinheiro Machado, 2020 conj. 1404 | Centro</li>
                                     <li><i class="bi bi-clock-history"></i> De seg. às sextas feiras, das 8:30h às 12:00h e das 13:30h às 19:00h;</li>
                                     <li><i class="bi bi-chat-dots-fill"></i> Um sábado por mês, atendemos entrevistas mediante agendamento prévio;</li>
                                     <li><i class="bi bi-credit-card-2-back"></i> Aceitamos todos os cartões de crédito;</li>
                                 </ul>
 
                                 <div class="card_unidade_contato">
-                                    <a href="#">(99) 9 9999-9999</a>
+                                    <a href="tel:+555435361800"><i class="bi bi-telephone"></i> (54) 3536-1800</a>
 
-                                    <a href="#">(99) 9999-9999</a>
+                                    <a href="https://api.whatsapp.com/send?phone=5554991954322"><i class="bi bi-whatsapp"></i> (54) 99195-4322</a>
                                 </div>
                                 <ul class="unidade_list_social">
-                                    <li><a href="#"><i class="bi bi-facebook"></i></a></li>
-                                    <li><a href="#"><i class="bi bi-instagram"></i></a></li>    
-                                    <li><a href="#"><i class="bi bi-youtube"></i></a></li>
+                                    <li><a href="https://www.facebook.com/fidelittaassessoriaafetiva"><i class="bi bi-facebook"></i></a></li>
+                                    <li><a href="https://www.instagram.com/fidelitta/"><i class="bi bi-instagram"></i></a></li>    
+                                    <li><a href="https://www.youtube.com/channel/UCj7w9NbRfGwvh4dQn3nOqcQ "><i class="bi bi-youtube"></i></a></li>
                                 </ul>
                             </div>
                             <div class="card_right">
@@ -288,7 +303,7 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
                         </div>
 
                         <div class="card_mapa">
-                            <img src="assets/img/mapa.jpg" alt="">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d27871.320531132027!2d-51.181865!3d-29.167175!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951ea32c86f9df95%3A0x90b5cbbbfd272279!2sR.%20Pinheiro%20Machado%2C%202020%20-%20Nossa%20Sra.%20de%20Lourdes%2C%20Caxias%20do%20Sul%20-%20RS%2C%2095020-172!5e0!3m2!1sen!2sbr!4v1662495212447!5m2!1sen!2sbr" width="" height="" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                         
                     </div>
@@ -319,11 +334,11 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
 
                     <form action="">
                         <p>Entre em contato</p>
-                        <input type="text" name="nome" id="nome" placeholder="Seu Nome">
-                        <input type="email" name="email" id="email" placeholder="Seu e-mail">
-                        <input type="text" name="telefone" id="telefone" placeholder="seu telefone">
-                        <textarea name="mensagem" id="mensagem" cols="30" rows="10" placeholder="nos conte mais..."></textarea>
-                        <button class="btn_form">Enviar</button>
+                        <input type="text" name="nome" id="contatoName" placeholder="Seu Nome *">
+                        <input type="email" name="email" id="contatoTelefone" placeholder="Seu e-mail *">
+                        <input type="text" name="telefone" id="contatoEmail" placeholder="seu telefone *">
+                        <textarea name="mensagem" id="contatoMsg" cols="30" rows="10" placeholder="nos conte mais... *"></textarea>
+                        <button class="btn_form" id="btn_contato">Enviar</button>
                     </form>
 
                 </div>
@@ -341,6 +356,8 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
 
             <div class="logo_footer">
                 <img src="assets/img/logo.png" alt="">
+                <p><strong>Unindo casais desde 2003.</strong><br><br>
+                Não somos um aplicativo e não utilizamos meios eletrônicos.</p>
             </div>
 
             <div class="footer_unit">
@@ -352,17 +369,17 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
                     <li>
                         <h5> <strong>Unidade 1:</strong> Porto Alegre</h5>
                         <p>Rua Tobias da Silva, 22 - Conj 402 | Moinhos de Vento | Porto Alegre-RS </p>
-                        <p> <a href="tel:+5599999999999">(99) 9 9999-9999</a> </p>
-                        <p> <a href="tel:+5599999999999">(99) 9 9999-9999</a> </p>
-                        <p> <a href="mailto:contato@email.com">contato@email.com</a> </p>
+                        <p> <a href="https://api.whatsapp.com/send?phone=5551984336084">(51) 98433-6084</a> </p>
+                        <p> <a href="tel:+555130134848">(51) 3013-4848</a> </p>
+                        <p> <a href="mailto:fidelitta@fidelitta.com.br">fidelitta@fidelitta.com.br</a> </p>
                     </li>
 
                     <li>
-                        <h5> <strong>Unidade 2:</strong> Porto Alegre</h5>
-                        <p>Rua Tobias da Silva, 22 - Conj 402 | Moinhos de Vento | Porto Alegre-RS </p>
-                        <p> <a href="tel:+5599999999999">(99) 9 9999-9999</a> </p>
-                        <p> <a href="tel:+5599999999999">(99) 9 9999-9999</a> </p>
-                        <p> <a href="mailto:contato@email.com">contato@email.com</a> </p>
+                        <h5> <strong>Unidade 2:</strong> Caxias do Sul</h5>
+                        <p>Rua Pinheiro Machado, 2020 conj. 1404 | Centro </p>
+                        <p> <a href="https://api.whatsapp.com/send?phone=5554991954322">(54) 99195-4322</a> </p>
+                        <p> <a href="tel:+555435361800">(54) 3536-1800</a> </p>
+                        <p> <a href="mailto:fidelitta@fidelitta.com.br">fidelitta@fidelitta.com.br</a> </p>
                     </li>
                 </ul>
             </div>
@@ -374,9 +391,9 @@ Há 19 anos atendemos presencialmente, pessoas que buscam um relacionamento com 
                 </header>
 
                 <ul class="footer_list_social">
-                    <li><a href="#"><i class="bi bi-facebook"></i></a></li>
-                    <li><a href="#"><i class="bi bi-instagram"></i></a></li>    
-                    <li><a href="#"><i class="bi bi-youtube"></i></a></li>
+                    <li><a href="https://www.facebook.com/fidelittaassessoriaafetiva"><i class="bi bi-facebook"></i></a></li>
+                    <li><a href="https://www.instagram.com/fidelitta/"><i class="bi bi-instagram"></i></a></li>    
+                    <li><a href="https://www.youtube.com/channel/UCj7w9NbRfGwvh4dQn3nOqcQ "><i class="bi bi-youtube"></i></a></li>
                 </ul>
             </div>
 

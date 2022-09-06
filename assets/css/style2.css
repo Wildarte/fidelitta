@@ -179,6 +179,7 @@ nav.menu ul li a{
     font-size: 1.2em;
     line-height: 1.4em;
     position: relative;
+    margin-bottom: 10px;
 }
 .sobre_right{
     position: relative;
@@ -362,6 +363,7 @@ nav.menu ul li a{
     font-size: 1.2em;
     line-height: 1.4em;
     position: relative;
+    margin-bottom: 10px;
 }
 /* wait */
 
@@ -427,6 +429,9 @@ nav.menu ul li a{
 .card_mapa{
     height: 140px;
     overflow: hidden;
+}
+.card_mapa iframe{
+    width: 100%!important;
 }
 .unidade_detalhes li{
     font-size: .97em;
@@ -580,6 +585,10 @@ footer.footer{
 .logo_footer img{
     width: 180px;
     image-rendering: -webkit-optimize-contrast;
+    margin-bottom: 20px;
+}
+.logo_footer strong{
+    margin-bottom: 20px;
 }
 .footer_unit{
     flex-basis: 50%;
@@ -852,6 +861,12 @@ footer.footer{
     }
     header.header{
         height: auto;
+        background-image: url('../img/bg-mobile.jpg');
+        background-position-y: 60px;
+        background-position-x: -200px;
+        background-size: cover;    
+        background-repeat: no-repeat;
+        background-color: #000000;
     }
     .sobre_text{
         padding: 10px 10px 60px;

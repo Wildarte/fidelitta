@@ -71,3 +71,64 @@ btn_close_menu.addEventListener('click', function(){
     menu.classList.remove('open_menu');
 
 });
+
+
+const btn_contato = document.getElementById('btn_contato');
+
+if(btn_contato){
+
+    btn_contato.addEventListener('click', (e) => {
+
+        e.preventDefault();
+
+        
+        
+        let name = document.getElementById('contatoName').value;
+        let telefone = document.getElementById('contatoTelefone').value;
+        let email = document.getElementById('contatoEmail').value;
+        let msg = document.getElementById('contatoMsg').value;
+
+        if(name == "" || telefone == "" || email == "" || msg == ""){
+            alert('Preencha todos os campos');
+            
+            
+        }else{
+
+            btn_contato.innerText = "Enviando..."
+
+            btn_contato.disabled = true;
+
+            $.ajax({
+                method: 'POST',
+                url: 'https://formsubmit.co/ajax/wildarte10@gmail.com',
+                dataType: 'json',
+                accepts: 'application/json',
+                data: {
+                    nome: name,
+                    telefone: telefone,
+                    email: email,
+                    mensagem: msg,
+                    _subject: "Contato do site"
+                },
+                success: (data) => {
+    
+                    alert('Agradecemos o contato');
+    
+                    btn_contato.innerText = "Enviar";
+                    btn_contato.disabled = false;
+        
+                    document.getElementById('contatoName').value = "";
+                    document.getElementById('contatoTelefone').value = "";
+                    document.getElementById('contatoEmail').value = "";
+                    document.getElementById('contatoMsg').value = "";
+                },
+                error: (err) => console.log(err)
+            });
+
+        }
+    
+        
+    
+    });
+
+}
